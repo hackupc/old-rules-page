@@ -10,7 +10,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 
 ## The rules of the competition
 
-1. There is no maximum or minimum team size. As a participant, you should make sure to check how many prizes are available per team. There is usually a limited number of prizes for each challenge. So if you form a large team and win a challenge, there might not be enough prizes for everyone on your team.
+1. There is no minimum team size, however, the maximum size is 4 people. As a participant, you should make sure to check how many prizes are available per team. There is usually a limited number of prizes for each challenge. So if you form a large team and win a challenge, there might not be enough prizes for everyone on your team.
 2. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event. 
 3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
 4. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
