@@ -11,7 +11,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 ## The rules of the competition
 
 1. There is no minimum team size, however, the maximum size is 4 people. As a participant, you should make sure to check how many prizes are available per team. There is usually a limited number of prizes for each challenge. So if you form a large team and win a challenge, there might not be enough prizes for everyone on your team.
-2. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, judges, sponsors, or in any other privileged position at the event. Volunteers can participate too in their free time, accepting the extra difficulty of hacking and volunteering at the same time, but it won't give them any judging advantage in front of the rest of participants.
+2. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, judges, sponsors, or in any other privileged position at the event. Volunteers are allowed to participate in their free time, accepting the extra difficulty of hacking and volunteering at the same time, but their role won't give them any judging advantage in front of the rest of participants.
 3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
 4. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
 5. All work on a project should be done at the hackathon.
@@ -21,7 +21,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 9. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed.
 10. Adding new features to existing projects is allowed. Judges will only consider new functionality introduced or new features added during the hackathon in determining the winners.
 11. Teams must stop hacking once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. If during demoing your hack you find a bug that breaks your application and the fix is only a few lines of code, it's okay to fix that. Making large changes or adding new features is not allowed.
-12. Projects that violate the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf) are not allowed. 
+12. Projects that violate the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf) are not allowed.
 13. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf), or other unsporting behaviour.
 
 
@@ -36,12 +36,12 @@ You are encouraged to present what you have done even if your hack is broken or 
 
 ## Judging Criteria
 
-Teams will be judged on these four criteria. Judges will weigh the criteria equally. During judging, participants should try to describe what they did for each criterion in their project. 
+Teams will be judged on these four criteria. Judges will weigh the criteria equally. During judging, participants should try to describe what they did for each criterion in their project.
 
 - __Technology:__ How technically impressive was the hack? Was the technical problem the team tackled difficult? Did it use a particularly clever technique or did it use many different components? Did the technology involved make you go "Wow"?
-- __Design:__ Did the team put thought into the user experience? How well designed is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?). 
-- __Completion:__ Does the hack work? Did the team achieve everything they wanted? 
-- __Learning:__ Did the team stretch themselves? Did they try to learn something new? What kind of projects have they worked on before? If a team which always does virtual reality projects decides to switch up and try doing a mobile app instead, that exploration should be rewarded. 
+- __Design:__ Did the team put thought into the user experience? How well designed is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?).
+- __Completion:__ Does the hack work? Did the team achieve everything they wanted?
+- __Learning:__ Did the team stretch themselves? Did they try to learn something new? What kind of projects have they worked on before? If a team which always does virtual reality projects decides to switch up and try doing a mobile app instead, that exploration should be rewarded.
 
 These criteria will guide judges but ultimately judges are free to make decisions based on their gut feeling of which projects are the most impressive and most deserving.
 
