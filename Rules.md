@@ -1,6 +1,6 @@
 # Hackathon Rules
 
-These are HackUPC Fall 2016 competition rules. They are an a a customized version of the standard competition rules used at MLH Member Hackathons. If you have a suggestion for these rules or a question about them, please submit an issue [here](https://github.com/hackupc/hackupc-rules/issues).
+These are HackUPC Fall 2016 competition rules. They are a customized version of the standard competition rules used at MLH Member Hackathons. If you have a suggestion for these rules or a question about them, please submit an issue [here](https://github.com/hackupc/hackupc-rules/issues).
 
 
 ## The spirit of the competition
@@ -10,7 +10,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 
 ## The rules of the competition
 
-1. There is no minimum team size, however, the maximum size is 4 people. There will be 1 prize for member of the team, independently of team size.
+1. There is no minimum team size, however, the maximum size is 4 people. There will be 1 prize for each member of the team, independently of the team size.
 2. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, judges, sponsors, or in any other privileged position at the event. Volunteers are allowed to participate in their free time, accepting the extra difficulty of hacking and volunteering at the same time, but their role won't give them any judging advantage in front of the rest of participants.
 3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere or sleep is fine.
 4. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
