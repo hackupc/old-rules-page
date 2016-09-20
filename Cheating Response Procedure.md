@@ -1,4 +1,4 @@
-# MLH Cheating Response Procedure
+# HackUPC Cheating Response Procedure
 
 The following is a guide of actions to be taken in the case of an accusation that a team cheated or otherwise violated the rules of competition. Violations of the Code of Conduct is handled under the [Incident Response Procedure](https://github.com/MLH/policies/blob/master/incident-response.md).
 Accusations of cheating may include but are not limited to:
@@ -8,11 +8,11 @@ Accusations of cheating may include but are not limited to:
 - A team having too many team members
 - A team using code that was written outside the event
 
-To determine the validity of cheating instances Major League Hacking defers to the rules adopted by the individual event. If the event did not adopt a unique set of rules, the default [MLH Hackathon Rules](https://github.com/MLH/hackathon-rules/blob/master/Rules.md) will be used.
+To determine the validity of cheating instances HackUPC defers to the [rules](https://github.com/hackupc/hackupc-rules/blob/master/Rules.md) 
 
 ## Accusation
 
-To ensure a consistent and fair response across all events in the League, MLH will deal with cheating accusations at events in the League. If you suspect cheating, or you are an organizer who has been made aware of an accusation of cheating, please get in touch with MLH. If you are still at the event, go and find the onsite MLH representative. If it is after the event, please email league@mlh.io. The following steps are to be followed by MLH staff.
+To ensure a consistent and fair response across all events in the League, MLH will deal with cheating accusations at events in the League. If you suspect cheating, please get in touch with MLH. If you are still at the event, go and find the onsite MLH representative or a HackUPC organizer. If it is after the event, please email league@mlh.io. The following steps are to be followed by MLH.
 
 ## Document the Report
 
