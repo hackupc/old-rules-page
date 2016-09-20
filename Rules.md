@@ -1,6 +1,6 @@
 # Hackathon Rules
 
-These are standard competition rules used at MLH Member Hackathons. Not all MLH Member Hackathons will use these rules as organizers can choose to use these or their own rules. Organizers can use these rules exactly or fork them and edit them to suit their needs. If you have a suggestion for these rules or a question about them, please submit an issue [here](https://github.com/MLH/hackathon-rules/issues).
+These are HackUPC Fall 2016 competition rules. They are an a a customized version of the standard competition rules used at MLH Member Hackathons. If you have a suggestion for these rules or a question about them, please submit an issue [here](https://github.com/hackupc/hackupc-rules/issues).
 
 
 ## The spirit of the competition
@@ -10,9 +10,9 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 
 ## The rules of the competition
 
-1. There is no minimum team size, however, the maximum size is 4 people. As a participant, you should make sure to check how many prizes are available per team. There is usually a limited number of prizes for each challenge. So if you form a large team and win a challenge, there might not be enough prizes for everyone on your team.
+1. There is no minimum team size, however, the maximum size is 4 people. There will be 1 prize for member of the team, independently of team size.
 2. Teams should be made up exclusively of students (or recent graduates within one year of having graduated) who are not organizers, judges, sponsors, or in any other privileged position at the event. Volunteers are allowed to participate in their free time, accepting the extra difficulty of hacking and volunteering at the same time, but their role won't give them any judging advantage in front of the rest of participants.
-3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere is fine.
+3. All team members should be present at the event. Leaving the venue for some time to hack elsewhere or sleep is fine.
 4. Teams can of course gain advice and support from organizers, volunteers, sponsors, and others.
 5. All work on a project should be done at the hackathon.
 6. Teams can use an idea they had before the event.
@@ -59,4 +59,4 @@ So don't worry about coming up with the next big idea or building the next Faceb
 
 The competition is just a part of the hackathon. To make the most out of the event, try something new, teach other people, and make new friends!
 
-Happy Hacking from the MLH team!
+Happy Hacking from the HackUPC and MLH team!
