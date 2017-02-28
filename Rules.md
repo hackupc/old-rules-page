@@ -1,6 +1,6 @@
 # Hackathon Rules
 
-These are HackUPC Fall 2016 competition rules. They are a customized version of the standard competition rules used at MLH Member Hackathons. If you have a suggestion for these rules or a question about them, please submit an issue [here](https://github.com/hackupc/hackupc-rules/issues).
+These are HackUPC competition rules. They are a customized version of the standard competition rules used at MLH Member Hackathons. If you have a suggestion for these rules or a question about them, please submit an issue [here](https://github.com/hackupc/hackupc-rules/issues).
 
 
 ## The spirit of the competition
@@ -55,6 +55,13 @@ It's important to note that these judging criteria do not include:
 
 So don't worry about coming up with the next big idea or building the next Facebook. You'll have plenty of time for that outside the hackathon. just focus on learning, having fun, and making new friends. At the end of the day the skills you learn and the friends you make might lead to the next big thing—but you don't have to do that to win a hackathon.
 
+## Travel reimbursement
+
+If you have been elected to receive a travel reimbursement, we will contact you after the hackathon to send it to you. You will receive a maximum that has been specified on the email, based on current travelling prices and distances. Requirements to receive travel reimbursement:
+
+- Received an email with travel reimbursement amount.
+- Travel reimbursement receipts submitted before the end of HackUPC or before the date specified by the HackUPC Team
+- Project submitted to Devpost before the due date
 
 ## Remember!
 
