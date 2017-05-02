@@ -5,4 +5,4 @@ These are HackUPC competition rules, a customized version of the standard compet
 There are several documents in the _HackUPC Rules_:
 
 - [Rules](Rules.md): The list of rules participants must follow and the judging criteria.
-- [Cheating Response Procedure](Cheating Response Procedure.md): How people can report violations of the rules and how those reports will be dealt with.
+- [Cheating Response Procedure](cheating_response_procedure.md): How people can report violations of the rules and how those reports will be dealt with.
