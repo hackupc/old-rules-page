@@ -1,6 +1,6 @@
 # Hackathon Rules
 
-These are HackUPC competition rules. They are a customized version of the standard competition rules used at MLH Member Hackathons. If you have a suggestion for these rules or a question about them, please submit an issue [here](https://github.com/hackupc/hackupc-rules/issues).
+These are the HackUPC competition rules. They are a customized version of the standard competition rules used at MLH Member Hackathons. If you have a suggestion for these rules or a question about them, please submit an issue [here](https://github.com/hackupc/hackupc-rules/issues).
 
 
 ## The spirit of the competition
@@ -28,7 +28,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 
 ## Demos
 
-After hacking finishes, teams will show their projects each other and to the judges.
+After hacking finishes, teams will show their projects to each other and to the judges.
 
 You are strongly encouraged to present a demo of what you have built. Pitches or presentations are discouraged. You are not judged on the quality of your pitch or the quality of your idea. As you are judged on what you built, you'll only hurt yourself by not showing a demo.
 
@@ -63,8 +63,12 @@ If you have been elected to receive a travel reimbursement, we will contact you 
 - Travel reimbursement receipts submitted before the end of HackUPC or before the date specified by the HackUPC Team
 - Project submitted to Devpost before the due date
 
+## Cheating
+
+Any cheating allegations will be resolved according to the HackUPC Cheating Response Procedure found [here](https://github.com/hackupc/rules/blob/master/cheating_response_procedure.md)
+
 ## Remember!
 
 The competition is just a part of the hackathon. To make the most out of the event, try something new, teach other people, and make new friends!
 
-Happy Hacking from the HackUPC and MLH team!
+Happy Hacking from the HackUPC team!
