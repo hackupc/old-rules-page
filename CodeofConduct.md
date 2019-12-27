@@ -32,10 +32,10 @@ By sending us an email to contact@hackupc.com, your report will be received by o
 
 If you need to contact a team member directly, please contact one of our organizers below.
 
-- Marina Ramon, @marina in slack, marina@hackupc.com
-- Felix Arribas, @felix in slack, felix@hackupc.com
-- Oscar Faixat, @faix in slack, oscar@hackupc.com
+- Andrea Querol, @dreaqdp in Slack, andrea@hackupc.com.
+- Maria Gonzalez, @maria in Slack, maria@hackupc.com.
+- Oscar Faixat, @faix in Slack, oscar@hackupc.com.
 
 Hackers@UPC reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part.
 
-Last Reviewed: June 27, 2018
+Last Reviewed: December 27, 2019
