@@ -1,5 +1,7 @@
 # HackUPC Rules
 
+> ⚠️ **UPDATE**: Rules have moved, now they are in https://github.com/hackupc/legal-page
+
 These are HackUPC competition rules, a customized version of the standard competition rules used at MLH Member Hackathons.
 
 There are several documents in the _HackUPC Rules_:
